@@ -7,6 +7,8 @@
 - Various functionalities are restricted to Admin or User.
 - Frontend built using HTML, Pug, CSS & JavaScript.
 - The back-end consitutes of REST-APIs with node.js, express.js and MongoDB as database.
+- Complete source code at :-
+  - https://github.com/rohit-13/The-Trip-Planner
 
 ### Preview :
 ![](overview.png)
@@ -24,5 +26,4 @@
 manage tours, manage users, manage reviews, manage bookings 
 ![](admin.png)
 
-### Complete source code at :-
-- https://github.com/rohit-13/The-Trip-Planner
+
