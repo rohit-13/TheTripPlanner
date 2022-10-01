@@ -1,6 +1,6 @@
 
 # The Trip Planner 
-- A Tour planning web application in which a each tour has its own description, guides, reviews given by the users,...
+- A Tour planning web application in which a each tour has its own detailed description, tour guides, ratings and reviews given by the users.
 - User can see other’s reviews on the Tours & can write their own review.
 - CRUD operations are supported on reviews, users, and tours.
 - User can Signup / Login and later authentication is done using JSON Web Token (JWT).
